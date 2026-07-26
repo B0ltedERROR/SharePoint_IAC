@@ -6,10 +6,9 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] Create Readme for Queries
-- [ ] Add JSON Configuration to Queries
-- [ ] Update comments on queries
-- [ ] refactor queries to be dependent scripts
+- [ ] [[Query Rework]]
+- [ ] Output function
+- [ ] Site & List Creation
 
 
 ## Work In Progress
